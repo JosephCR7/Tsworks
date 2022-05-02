@@ -1,1 +1,8 @@
 https://twz.azurewebsites.net/api/httptrigger
+
+POST body req
+{
+  "name":"john",
+  "age":"20"
+  "userId": "001"
+}
